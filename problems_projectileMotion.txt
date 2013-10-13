@@ -1,0 +1,9 @@
+1. A ball thrown horizontally from a point 30 m above the ground strikes the ground after traveling horizontally a distance of 20 m. With what speed was it thrown? 
+
+2. A girl throws a rock horizontally with a velocity of 12 m/s from a bridge. It falls 20 m to the water below. How far from the bridge does the rock go?(horizontal distance)
+
+3.  A pitcher throws horizontally a fast ball at 155 km/h toward home plate, which is 18.3 m away. Neglecting air resistance (not a good idea if you are the batter), find how far the ball drops because of gravity by the time it reaches home plate.
+
+4.  projectile is shot from the edge of a cliff 180 m above ground with an initial speed of 60 m/s at an angle of 40 degrees above the horizontal. What is the time taken by the projectile to hit the ground 180 m below the cliff?
+
+
